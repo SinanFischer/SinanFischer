@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌄 About Me:
 Seit meinem Einstieg als Junior Frontend Developer im Sommer 2022 bei einer Digitalagentur hier in MV - Schwerin , lebe ich meinen Code-Traum. <br>Mit einem soliden Skillset in HTML, CSS, SCSS, SASS und einer guten Portion JavaScript und jQuery zaubere ich Webseiten, die nicht nur funktionieren, sondern auch Spaß machen. <br>PHP und WordPress? Klar, damit jongliere ich nebenbei und mache WordPress zu meinem Spielplatz, inklusive der bekanntesten und nützlichsten Plugins. <br>Gerade lerne ich Git/GitHub und arbeite mich in die Zukunft, in der ich React und Blockthemes in WordPress meistere. <br>Ich bin ständig am Lernen, immer auf der Suche nach dem nächsten großen Ding – Coding ist nicht nur mein Job, sondern meine Leidenschaft.
 
 
@@ -12,4 +12,3 @@ Seit meinem Einstieg als Junior Frontend Developer im Sommer 2022 bei einer Digi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
