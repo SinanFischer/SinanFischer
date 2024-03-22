@@ -1,5 +1,8 @@
 # 🌄 About Me:
-Seit meinem Einstieg als Junior Frontend Developer im Sommer 2022 bei einer Digitalagentur hier in MV - Schwerin , lebe ich meinen Code-Traum. <br>Mit einem soliden Skillset in HTML, CSS, SCSS, SASS und einer guten Portion JavaScript und jQuery zaubere ich Webseiten, die nicht nur funktionieren, sondern auch Spaß machen. <br>PHP und WordPress? Klar, damit jongliere ich nebenbei und mache WordPress zu meinem Spielplatz, inklusive der bekanntesten und nützlichsten Plugins. <br>Gerade lerne ich Git/GitHub und arbeite mich in die Zukunft, in der ich React und Blockthemes in WordPress meistere. <br>Ich bin ständig am Lernen, immer auf der Suche nach dem nächsten großen Ding – Coding ist nicht nur mein Job, sondern meine Leidenschaft.
+Ich bin Sinan - Junior Frontend Developer. <br> 
+Auf der Suche nach einer Berufung in der das lernen nie endet, bin ich auf das programmieren gestoßen. <br>
+Seit dem lerne ich mit größten Eifer neue Skills, vertiefe gekanntes um mit jeden Tag ein besserer Programmierer zu werden. In welcher sich nicht nur die Zeit optimiert, die ich für Projekte brauche, sondern auch die Qualität des Codes mit jedem neuen Tag verbessert. 
+Mit einem Skillset in HTML, CSS, SCSS, SASS, einer guten Portion JavaScript und jQuery erstelle ich Webseiten, die nicht nur funktionieren, sondern auch interaktiv und UX freundlich sind. <br>PHP und WordPress? Klar, das ist der Hauptanteil meiner Arbeit und ein riesiger Platz zum austoben. Inklusive der bekanntesten und nützlichsten Plugins gibt es . <br>Gerade lerne ich Git/GitHub und arbeite mich in die Zukunft, in der ich React und Blockthemes in WordPress meistere. <br>Ich bin ständig am Lernen, immer auf der Suche nach dem nächsten großen Ding – Coding ist nicht nur mein Job, sondern meine Leidenschaft.
 
 
 # 💻 Tech Stack:
