@@ -1,8 +1,8 @@
 # 🌄 About Me:
-I am Sinan - Junior Frontend Developer. <br> 
+I am Sinan - Webdeveloper. <br> 
 In search of a job where the learning never stops, I came across programming. <br>
 
-PHP and WordPress? That's the main part of my job. With all the plugins already out there, the customisation options and the knowledge of HTML, CSS, SCSS, SASS, a good dose of JavaScript, jQuery and soon React, the programming possibilities are endless. The fact that this is just the tip of the iceberg inspires me even more.
+A good craftsman sharpens his tools - and we do this by constantly educating ourselves, remaining open to new tools and approaches, and thus creating more efficient, more modern solutions. 
 <br> <br> 
 
 
