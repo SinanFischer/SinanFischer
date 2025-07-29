@@ -1,8 +1,9 @@
 # 🌄 About Me:
 
-I develop solutions that are well thought out from the perspective of the user, the admin, aesthetics and performance. What counts for me is not just that it works - but that it looks good, feels good and is fun to use. If something doesn't fit, I look for a better way - because there is one. And I find it. <br>
+Hey!
+
 ----<br>
-Ich entwickle Lösungen, die aus Sicht des Users, des Admins, der Ästhetik und der Performance durchdacht sind. Für mich zählt nicht nur, dass es funktioniert – sondern dass es gut aussieht, sich gut anfühlt und Spaß macht. Wenn etwas nicht passt, suche ich den besseren Weg – denn den gibt es. Und ich finde ihn.
+
  <br> 
 <br>
 
