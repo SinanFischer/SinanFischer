@@ -49,7 +49,7 @@ Pretty cool, isn't it?
 
 # 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-fischer-93bb90244) [![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Sinandev.levelup)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-fischer-93bb90244) 
 
 <br>
 
