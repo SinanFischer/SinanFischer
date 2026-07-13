@@ -4,9 +4,7 @@ Programming is how I want to make a difference in the world over the long run.
 
 In the end, we developers quietly keep a lot of the modern world running... as "[Uncle Bob](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1h10m39s)" so aptly put it. ;-)
 These days, software is in almost everything – even in places you might never have thought of. The lights on a stage, the sound desk and the elevator that got you there.
-However, my area of expertise is in the web.  Turning an idea into something that helps or improves people's lives.
-
-Pretty cool, isn't it?
+However, my area of expertise is in the web. While I cannot program your sound deck, or at least I've never tried to, I want to build apps and sites that make life a bit or a lot better. 
 
 <br>
 
