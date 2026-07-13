@@ -12,10 +12,10 @@ Pretty cool, isn't it?
 
 # 🛠️ Public Projects
 
-| Project | Description |
-|---|---|
-| **[LevelUp – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sinandev.levelup)** ([Open VSX](https://open-vsx.org/extension/Sinandev/levelup)) | My passion project |
-| **[Steam Workshop Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3671640538)** | Total Conversion Mod for Running with Rifles |
+| Project | 
+|---|
+| **[LevelUp – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sinandev.levelup)** ([Open VSX](https://open-vsx.org/extension/Sinandev/levelup)) |
+| **[Steam Workshop Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3671640538)** | 
 
 <br>
 
