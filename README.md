@@ -1,7 +1,5 @@
 # 🌄 About Me
 
-Hey, I'm Sinan – a Developer from Germany.
-
 Programming is how I want to make a difference in the world over the long run. 
 
 In the end, we developers quietly keep a lot of the modern world running... as "[Uncle Bob](https://www.youtube.com/watch?v=ecIWPzGEbFc&t=1h10m39s)" so aptly put it. ;-)
@@ -44,12 +42,6 @@ Pretty cool, isn't it?
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinanFischer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-# 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-fischer-93bb90244) 
 
 <br>
 
