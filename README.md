@@ -11,7 +11,7 @@ However, my area of expertise is in the web. While I cannot program your sound d
 
 | Project |
 |---|
-| **[Cortex – Working Memory for Developers](https://open-vsx.org/extension/Sinandev/cortex-workspace)** |
+| **[Cortex – Second Brain for Developers](https://open-vsx.org/extension/Sinandev/cortex-workspace)** |
 | **[Timeframe – Developer Time Tracking](https://open-vsx.org/extension/Sinandev/timeframe)** |
 | **[LevelUp – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sinandev.levelup)** ([Open VSX](https://open-vsx.org/extension/Sinandev/levelup)) |
 | **[Steam Workshop Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3671640538)** |
